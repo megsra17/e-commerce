@@ -2,7 +2,7 @@
 
 ## Description
 
-This program lets you view and manage the back end for my e-commerce website that uses the latest technologies
+This program lets you publish your own blog posts and comment on other developers’ posts as well. I built this site completely from scratch and deployed it to Heroku
 
 ## Installation
 
@@ -10,7 +10,7 @@ node i: to install all the packages
 
 ## Link
 
-(https://www.loom.com/share/dc12d36134cd486ea6246284f1f4b44f)
+(https://tech-blog-cmr.herokuapp.com/login)
 
 ## Questions
 
